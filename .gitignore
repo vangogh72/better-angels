@@ -11,3 +11,7 @@
 bin/
 # Ignore Travis stuff (for now).
 .travis.yml
+
+# Composer dependency folder
+BuoyChat/vendor/
+
